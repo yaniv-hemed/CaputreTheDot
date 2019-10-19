@@ -35,7 +35,7 @@ namespace CaputreTheDot
         protected override void OnPause()
         {
             base.OnPause();
-            Console.WriteLine("pause event and yaniv");
+            Console.WriteLine("pause event");
         }
 
         protected override void OnStart()
